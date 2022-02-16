@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
+import Button from './components/button';
+// import Test2, { App, Test } from './App';
+
+import './index.css';
+
 import reportWebVitals from './reportWebVitals';
+
+
 
 ReactDOM.render(
   <React.StrictMode>
